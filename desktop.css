@@ -1,0 +1,27 @@
+@media all and (max-width:992px){
+	.text{
+		margin:18% 35%;
+	}
+	.line{
+		margin:1.5% 29%;
+	}
+}
+
+@media all and (max-width:772px){
+	.text{
+		margin:15% 31%;
+	}
+	.line{
+		margin:2.5% 30%;
+	}
+}
+@media all and (max-width:512px){
+	.text{
+		margin:11% 22%;
+	}
+	.line{
+		margin:1.5% 30%;
+	}
+}
+
+/*body design start here*/
